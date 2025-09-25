@@ -1,0 +1,17 @@
+{
+  "name": "Midnight's Woodworking",
+  "short_name": "Midnight's Woodworking",
+  "description": "Handcrafted wood and resin gifts made with love in Buffalo, NY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefefe",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "assets/img/logo.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    }
+  ]
+}
+

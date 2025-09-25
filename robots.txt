@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://terrybridenbaker.github.io/midnights-woodworking/sitemap.xml
+
